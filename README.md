@@ -83,10 +83,10 @@ Asegúrate de tener instalado el JDK de Java (versión 8 o superior).
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/MrArrivera/TareaLambdasClasesColeccion]
+   git clone https://github.com/MrArrivera/TareaLambdasClasesColeccion
 
 2. Navega al directorio
-   cd [lambdas-clasescollection]
+   cd lambdas-clasescollection
 
 3. Compilas archivos:
    javac *.java
